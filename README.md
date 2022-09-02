@@ -9,6 +9,7 @@ I consider myself a developer,self-taught,passionate and creative.Eager to const
 I am currently studying the last cycle of the Systems Engineering career at the National University of Callao 🌐.
 
 🛠  Skills
+
 ✅ html
 ✅ Css
 ✅ JavaScript
